@@ -188,7 +188,7 @@ static inline SelectFetchTableAction SelectFetchTableToEnum(NSString * action) {
 		case 2:
 			return @"Feb"; 
 		case 3:
-			return @"March"; 
+			return @"Mar"; 
 		case 4:
 			return @"Apr"; 
 		case 5:
@@ -196,11 +196,11 @@ static inline SelectFetchTableAction SelectFetchTableToEnum(NSString * action) {
 		case 6:
 			return @"Jun"; 
 		case 7:
-			return @"july"; 
+			return @"Jul"; 
 		case 8:
 			return @"Aug"; 
 		case 9:
-			return @"Sept"; 
+			return @"Sep"; 
 		case 10:
 			return @"Oct"; 
 		case 11:
