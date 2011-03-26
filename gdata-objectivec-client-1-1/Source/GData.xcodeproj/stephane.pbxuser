@@ -1,0 +1,199 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F49A41241214D86300F4E392 /* DevelopmentTestTool */;
+		activeTarget = 4F38F6A50B66E91D00B24B81 /* GDataFramework */;
+		codeSenseManager = F49A41DF1214FB3800F4E392 /* Code sense */;
+		executables = (
+			F49A41241214D86300F4E392 /* DevelopmentTestTool */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					483,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					681,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322855079;
+			PBXWorkspaceStateSaveDate = 322855079;
+		};
+		sourceControlManager = F49A41DE1214FB3800F4E392 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4F14A9DC0B1276B70072EBB8 /* GDataUnitTests */ = {
+		activeExec = 0;
+	};
+	4F1AD9010B71603F00DC0485 /* DevelopmentTestTool */ = {
+		activeExec = 0;
+		executables = (
+			F49A41241214D86300F4E392 /* DevelopmentTestTool */,
+		);
+	};
+	4F1C6E0E1027B3CE00B46459 /* GDataTouchStaticLib */ = {
+		activeExec = 0;
+	};
+	4F38F6A50B66E91D00B24B81 /* GDataFramework */ = {
+		activeExec = 0;
+	};
+	4F82A3650FCCC8BB00C477D4 /* GDataSpreadsheetData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 936}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{884, 202}";
+		};
+	};
+	4F82A3670FCCC8BB00C477D4 /* GDataSpreadsheetField.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 1365}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{592, 1130}";
+		};
+	};
+	4F82A3C10FCCCE4A00C477D4 /* GDataFeedSpreadsheetTable.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 462}}";
+			sepNavSelRange = "{737, 53}";
+			sepNavVisRange = "{0, 930}";
+		};
+	};
+	4F82A3C30FCCCE4A00C477D4 /* GDataFeedSpreadsheetRecord.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 533}}";
+			sepNavSelRange = "{825, 21}";
+			sepNavVisRange = "{0, 934}";
+		};
+	};
+	4F82A3C40FCCCE4A00C477D4 /* GDataFeedSpreadsheetTable.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 702}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{592, 804}";
+		};
+	};
+	4F82A3F50FCDE52A00C477D4 /* GDataEntrySpreadsheetRecord.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 533}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1065}";
+		};
+	};
+	4F82A3F60FCDE52A00C477D4 /* GDataEntrySpreadsheetRecord.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 1183}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1303, 1041}";
+		};
+	};
+	4F82A3FB0FCDE53500C477D4 /* GDataEntrySpreadsheetTable.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 702}}";
+			sepNavSelRange = "{1078, 26}";
+			sepNavVisRange = "{592, 1108}";
+		};
+	};
+	4F82A3FC0FCDE53500C477D4 /* GDataEntrySpreadsheetTable.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 1859}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{803, 880}";
+		};
+	};
+	4F85DEE0103B83B700B4C418 /* GDataIPhoneUnitTests */ = {
+		activeExec = 0;
+	};
+	4FEBA69F0BB362E5005710DA /* GDataQuerySpreadsheet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1196}";
+		};
+	};
+	4FEBA6A30BB362E5005710DA /* GDataServiceGoogleSpreadsheet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{745, 2154}";
+		};
+	};
+	F49A41241214D86300F4E392 /* DevelopmentTestTool */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DevelopmentTestTool;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F49A41DE1214FB3800F4E392 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F49A41DF1214FB3800F4E392 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

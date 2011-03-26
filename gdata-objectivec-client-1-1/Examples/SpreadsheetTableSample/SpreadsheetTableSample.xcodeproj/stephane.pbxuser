@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F49A45F51215A75600F4E392 /* SpreadsheetSample */;
+		activeTarget = 8D1107260486CEB800E47090 /* SpreadsheetSample */;
+		codeSenseManager = F49A46131215A77500F4E392 /* Code sense */;
+		executables = (
+			F49A45F51215A75600F4E392 /* SpreadsheetSample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					836,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306733300;
+			PBXWorkspaceStateSaveDate = 306733300;
+		};
+		perUserProjectItems = {
+			F46EDEC91249C51D0015DF1E /* PBXTextBookmark */ = F46EDEC91249C51D0015DF1E /* PBXTextBookmark */;
+			F46EDECA1249C51D0015DF1E /* PBXTextBookmark */ = F46EDECA1249C51D0015DF1E /* PBXTextBookmark */;
+			F46EDECB1249C51D0015DF1E /* PBXTextBookmark */ = F46EDECB1249C51D0015DF1E /* PBXTextBookmark */;
+			F4842A181246EF64009C4F7C /* PBXTextBookmark */ = F4842A181246EF64009C4F7C /* PBXTextBookmark */;
+			F4842A191246EF64009C4F7C /* PBXTextBookmark */ = F4842A191246EF64009C4F7C /* PBXTextBookmark */;
+			F4842A1B1246EF64009C4F7C /* PBXTextBookmark */ = F4842A1B1246EF64009C4F7C /* PBXTextBookmark */;
+			F49A461C1215B4B300F4E392 /* PBXTextBookmark */ = F49A461C1215B4B300F4E392 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F49A46121215A77500F4E392 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4F82A5100FCDFECC00C477D4 /* SpreadsheetTableSampleAppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 659}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1124}";
+		};
+	};
+	4F82A5110FCDFECC00C477D4 /* SpreadsheetTableSampleAppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 541}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 734}";
+		};
+	};
+	4F82A5120FCDFECC00C477D4 /* SpreadsheetTableSampleWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 11505}}";
+			sepNavSelRange = "{4846, 21}";
+			sepNavVisRange = "{16740, 1981}";
+		};
+	};
+	4F82A5130FCDFECC00C477D4 /* SpreadsheetTableSampleWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1094, 1001}}";
+			sepNavSelRange = "{1668, 16}";
+			sepNavVisRange = "{649, 1748}";
+		};
+	};
+	8D1107260486CEB800E47090 /* SpreadsheetSample */ = {
+		activeExec = 0;
+		executables = (
+			F49A45F51215A75600F4E392 /* SpreadsheetSample */,
+		);
+	};
+	F46EDEC91249C51D0015DF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4842A201246EF64009C4F7C /* GDataSpreadsheetConstants.h */;
+		name = "GDataSpreadsheetConstants.h: 32";
+		rLen = 0;
+		rLoc = 907;
+		rType = 0;
+		vrLen = 3070;
+		vrLoc = 787;
+	};
+	F46EDECA1249C51D0015DF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F82A5100FCDFECC00C477D4 /* SpreadsheetTableSampleAppController.m */;
+		name = "SpreadsheetTableSampleAppController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 0;
+	};
+	F46EDECB1249C51D0015DF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F82A5120FCDFECC00C477D4 /* SpreadsheetTableSampleWindowController.m */;
+		name = "SpreadsheetTableSampleWindowController.m: 160";
+		rLen = 21;
+		rLoc = 4846;
+		rType = 0;
+		vrLen = 1981;
+		vrLoc = 16740;
+	};
+	F4842A181246EF64009C4F7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F82A5120FCDFECC00C477D4 /* SpreadsheetTableSampleWindowController.m */;
+		name = "SpreadsheetTableSampleWindowController.m: 160";
+		rLen = 21;
+		rLoc = 4846;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 4320;
+	};
+	F4842A191246EF64009C4F7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4842A1A1246EF64009C4F7C /* GDataEntrySpreadsheet.h */;
+		name = "GDataEntrySpreadsheet.h: 19";
+		rLen = 417;
+		rLoc = 631;
+		rType = 0;
+		vrLen = 1129;
+		vrLoc = 0;
+	};
+	F4842A1A1246EF64009C4F7C /* GDataEntrySpreadsheet.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GDataEntrySpreadsheet.h;
+		path = "/Users/stephane/Documents/ComputerFun/iPhone/gdata-objectivec-client-1-1/Source/build/Debug/GData.framework/Versions/A/Headers/GDataEntrySpreadsheet.h";
+		sourceTree = "<absolute>";
+	};
+	F4842A1B1246EF64009C4F7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4842A1C1246EF64009C4F7C /* GDataEntrySpreadsheet.m */;
+		name = "GDataEntrySpreadsheet.m: 30";
+		rLen = 25;
+		rLoc = 920;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 597;
+	};
+	F4842A1C1246EF64009C4F7C /* GDataEntrySpreadsheet.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GDataEntrySpreadsheet.m;
+		path = "/Users/stephane/Documents/ComputerFun/iPhone/gdata-objectivec-client-1-1/Source/Clients/Spreadsheets/GDataEntrySpreadsheet.m";
+		sourceTree = "<absolute>";
+	};
+	F4842A201246EF64009C4F7C /* GDataSpreadsheetConstants.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GDataSpreadsheetConstants.h;
+		path = "/Users/stephane/Documents/ComputerFun/iPhone/gdata-objectivec-client-1-1/Source/build/Debug/GData.framework/Versions/A/Headers/GDataSpreadsheetConstants.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1014}}";
+			sepNavSelRange = "{907, 0}";
+			sepNavVisRange = "{787, 3070}";
+		};
+	};
+	F49A45F51215A75600F4E392 /* SpreadsheetSample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpreadsheetSample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F49A46121215A77500F4E392 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F49A46131215A77500F4E392 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F49A461C1215B4B300F4E392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4F82A5110FCDFECC00C477D4 /* SpreadsheetTableSampleAppController.h */;
+		name = "SpreadsheetTableSampleAppController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,4 @@
+# Ignore build files
+gdata-objectivec-client-1-1/Source/build/
+iPhoneApp/build/
+
