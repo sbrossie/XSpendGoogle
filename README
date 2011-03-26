@@ -1,0 +1,40 @@
+#
+#                XSpendGoogle
+#
+
+iPhone application to track family spending 
+
+I. Overview
+
+I.1 Requirements
+
+Requires having a google account.
+
+I.2 Dependencies and Layout
+
+All dependencies should be checked-in within the project and references from Xcode should be relative to those
+dependencies, so it is easy to share the project across devs.
+
+The layout of the application is:
+- iPhoneApp : The code for the iPhone app. There are a couple of very small classes taken from other projects (Regex)
+There are also directories for images/icons that are needed as a reference from XCode
+- gdata-objectivec-client-1-1 : The google framework is help communicate with various services. The code is compiled in such a way that we only use the Spreadsheet* services -- see (http://code.google.com/p/gdata-objectivec-client/wiki/GDataObjCIntroduction#Adding_Google_Data_APIs_to_a_project). Also note that version a 1-1 had a memory leak and i patched the code; the latest version might be fixed, i did not try.
+
+
+II. Description
+
+II.1 Usage
+
+Once installed users need to specify the google account that will be used (SpreadsheetService) to track all the spending.
+There are currently 2 tabs:
+. One to enter/update spendings
+. One to view the spending
+
+II.2 Interaction with GoogleSpreadsheet
+
+There is one new spreadsheet created per calendar year. Each month will be in a separate worksheet within that spreadsheet
+There rea two main tables, one of the categories (only one instnace per spreasheet) and one for the Spending (one instance per worksheet)
+
+Enjoy!
+
+S.
